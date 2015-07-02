@@ -1,6 +1,6 @@
 <h1>Belle page de test</h1>
 <?php 
 
-echo 'la belle page';
-echo 'test';
-echo 'toto';
+echo 'Bonjour';
+echo 'Real.not';
+echo 'c\'est l\'heure de manger ?';
